@@ -1,5 +1,12 @@
 ### Hi there 👋
+- 🔭 I’m currently working on becoming a Healthcare Cybersecurity Analyst
+- 🌱 I’m currently learning Python Scripting, Cryptography, Packet Analysis (Wireshark), Web Vulnerabilities, Penetration Testing, Incident Response, Vulnerability Management, and Compliance.
+- 👯 I’m looking to collaborate with other Cybersecurity professionals.
+- 🤔 I’m looking for help in securing a entry-level cybersecurity postion.
+- 💬 Ask me about education, and healthcare professional experience.
+- 📫 How to reach me: https://www.linkedin.com/in/chaundacdallas/
 
+- ⚡ Fun fact: I'm a Football Fanatic... LET'S GO PACKERS (Cheesehead for Life)
 <!--
 **cdallas1/cdallas1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
