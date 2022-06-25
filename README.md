@@ -1,23 +1,15 @@
-### Hi there 👋
-- 🔭 I’m currently working on becoming a Healthcare Cybersecurity Analyst
-- 🌱 I’m currently learning Python Scripting, Cryptography, Packet Analysis (Wireshark), Web Vulnerabilities, Penetration Testing, Incident Response, Vulnerability Management, and Compliance.
-- 👯 I’m looking to collaborate with other Cybersecurity professionals.
-- 🤔 I’m looking for help in securing a entry-level cybersecurity postion.
-- 💬 Ask me about education, and healthcare professional experience.
-- 📫 How to reach me: https://www.linkedin.com/in/chaundacdallas/
+### Chaunda Dallas
+#### I am a Health Information Technology Professional
+![I am a Health Information Technology Professional](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-- ⚡ Fun fact: I'm a Football Fanatic... LET'S GO PACKERS (Cheesehead for Life)
-<!--
-**cdallas1/cdallas1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate about Health Tech, Sports Tech, and IT Security! Driven to stay up-to-date on the latest trends and tools in the InfoSec community. I am eager to learn and accept challenges that provide me an opportunity to utilize my extensive educational background, analytical skills, work experience, and knowledge
 
-Here are some ideas to get you started:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cdallas1)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: PYTHON / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
