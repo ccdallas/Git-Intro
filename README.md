@@ -22,12 +22,9 @@ Passionate about Health Tech, Sports Tech, and IT Security! Driven to stay up-to
 " target="_blank"><img src="http://img.youtube.com/vi/wlyEPaKZoyE/0.jpg" 
 alt="wlyEPaKZoyE" width="240" height="180" border="10" /></a>
 
-[Cloud-based Tutoring System Short Video]https://mediaspace.kennesaw.edu/media/IT7993+Cloud-based+Tutoring+System+Short+Video/1_ilyhp2a7)
-
-![Cloud-based Tutoring System Short Video]
-<img src=https://github.com/cdallas1/cdallas1/blob/main/KSU%20Student%20Tutoring%20Advising.png" width="240" height="240" />
-
-![Cloud-based Tutoring System Short Video!](https://mediaspace.kennesaw.edu/media/IT7993+Cloud-based+Tutoring+System+Short+Video/1_ilyhp2a7)
+Cloud-based Tutoring System Short Video
+[https://mediaspace.kennesaw.edu/media/IT7993+Cloud-based+Tutoring+System+Short+Video/1_ilyhp2a7 </br>
+](https://user-images.githubusercontent.com/92799944/175872112-dda70f52-a59b-436d-aa1e-97d2a27d7729.png)
 
 ![Screen Shot 2022-06-27 at 2 17 14 AM](https://user-images.githubusercontent.com/92799944/175872112-dda70f52-a59b-436d-aa1e-97d2a27d7729.png)
 
