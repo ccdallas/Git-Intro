@@ -16,8 +16,6 @@ Passionate about Health Tech, Sports Tech, and IT Security! Driven to stay up-to
 * 🩺 EHR/PM Software: Meditech, NextGen, Epic
 
 ## Examples of Work
-<img src="https://github.com/cdallas1/Capstone-Tutoring-and-Advising-Center" width="240" />
-
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=wlyEPaKZoyE
 " target="_blank"><img src="http://img.youtube.com/vi/wlyEPaKZoyE/0.jpg" 
 alt="wlyEPaKZoyE" width="240" height="180" border="10" /></a>
