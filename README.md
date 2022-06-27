@@ -24,7 +24,7 @@ alt="wlyEPaKZoyE" width="240" height="180" border="10" /></a>
 
 [Cloud-based Tutoring System Short Video]https://mediaspace.kennesaw.edu/media/IT7993+Cloud-based+Tutoring+System+Short+Video/1_ilyhp2a7)
 
-＜img src="(https://user-images.githubusercontent.com/92799944/175872112-dda70f52-a59b-436d-aa1e-97d2a27d7729.png)" width="500" height="300"＞
+![Cloud-based Tutoring System Short Video]
 
 
 ![Cloud-based Tutoring System Short Video!](https://mediaspace.kennesaw.edu/media/IT7993+Cloud-based+Tutoring+System+Short+Video/1_ilyhp2a7)
