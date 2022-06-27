@@ -21,12 +21,8 @@ Passionate about Health Tech, Sports Tech, and IT Security! Driven to stay up-to
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=wlyEPaKZoyE
 " target="_blank"><img src="http://img.youtube.com/vi/wlyEPaKZoyE/0.jpg" 
 alt="wlyEPaKZoyE" width="240" height="180" border="10" /></a>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=wlyEPaKZoyE
-" target="_blank"><img src="http://img.youtube.com/vi/wlyEPaKZoyE/0.jpg" 
-alt="wlyEPaKZoyE" width="240" height="180" border="10" /></a>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=wlyEPaKZoyE
-" target="_blank"><img src="http://img.youtube.com/vi/wlyEPaKZoyE/0.jpg" 
-alt="wlyEPaKZoyE" width="240" height="180" border="10" /></a>
+
+[Cloud-based Tutoring System Short Video](https://mediaspace.kennesaw.edu/media/IT7993+Cloud-based+Tutoring+System+Short+Video/1_ilyhp2a7) </br>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/chaundacdallas/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mscdallas)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ceeceedee21/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/chaunean)  
 
