@@ -1,7 +1,7 @@
 ![I am a Health Information Technology Professional](https://github.com/cdallas1/cdallas1/blob/main/health%20cyber.jpeg)
 
 # Chaunda Dallas
-Passionate about Health Tech, Sports Tech, and IT Security! Driven to stay up-to-date on the latest trends and tools in the InfoSec community. I am eager to learn and accept challenges that provide me an opportunity to utilize my extensive educational background, analytical skills, work experience, and knowledge.
+Digital Portfolio and My Tech Projects (...still loading)
 
 ## Skills and Experience
 * ⚛ React
