@@ -1,6 +1,7 @@
 ![I am a Health Information Technology Professional](https://github.com/cdallas1/cdallas1/blob/main/health%20cyber.jpeg)
 
-# Chaunda Dallas
+# 
+Hi 👋🏽, I'm Chaunda Dallas
 Digital Portfolio and My Tech Projects (...still loading)
 
 ## Skills and Experience
