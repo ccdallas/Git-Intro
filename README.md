@@ -2,7 +2,7 @@
 
 # 
 Hi 👋🏽, I'm Chaunda Dallas
-Digital Portfolio and My Tech Projects (...still loading)
+My Digital Portfolio (...still loading)
 
 ## Skills and Experience
 * ⚛ React
