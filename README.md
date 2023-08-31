@@ -2,25 +2,16 @@
 
 # 
 Hi 👋🏽, I'm Chaunda Dallas
-My Digital Portfolio (...still loading)
+As a Cybersecurity Data Analyst, I am driven by my love for solving problems and my desire to make a positive impact through technology. Before transitioning to this field, I worked as a nurse for several years, where I honed my critical thinking skills and developed a dedication to helping others. I am a collaborative team player and thrive in environments where I can work with others to find innovative solutions to complex problems. Leveraging my passion for learning and problem solving has led me to a career in cybersecurity, where I am constantly faced with new challenges and opportunities to learn and grow.
 
-## Skills and Experience
-* ⚛ React
-* 🗄 MongoDB
-* 📱 React Native
-* 💻 HTML, CSS, JS
-* 🏥 Healthcare IT
-* 🛡 Data Analytics
-* 👩🏽‍💻 Visual Studio Code
-* 📦 Virtual Box, VMware
-* 🖥 Windows, Mac, Linux (Ubuntu, Kali)
-* 🩺 EHR/PM Software: Meditech, NextGen, Epic
+🔗 Links
+- https://ethantroy.com/ - Personal Blog
+- https://hacks.ethantroy.com/ - Anything hacking realted, Hack The Box, Try Hack Me, Security Related Blogs
+- https://medium.com/@ethanolivertroy - My medium page; a mix of cybersecurity and fitness/nutrition
+- https://www.youtube.com/@ethanolivertroy - Youtube Channel
+- https://mycyberdictionary.com/ - Just like it sounds, I dumped my cyber brain out to the public
 
-## Examples of Work
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=wlyEPaKZoyE
-" target="_blank"><img src="http://img.youtube.com/vi/wlyEPaKZoyE/0.jpg" 
-alt="wlyEPaKZoyE" width="240" height="180" border="10" /></a>
-
+🧪 Projects
 Cloud-based Tutoring System Short Video
 [https://mediaspace.kennesaw.edu/media/IT7993+Cloud-based+Tutoring+System+Short+Video/1_ilyhp2a7 </br>
 ](https://user-images.githubusercontent.com/92799944/175872112-dda70f52-a59b-436d-aa1e-97d2a27d7729.png)
@@ -28,6 +19,9 @@ Cloud-based Tutoring System Short Video
 ![Screen Shot 2022-06-27 at 2 17 14 AM](https://user-images.githubusercontent.com/92799944/175872112-dda70f52-a59b-436d-aa1e-97d2a27d7729.png)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/chaundacdallas/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mscdallas)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ceeceedee21/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/chaunean)  
+
+
+🛠️ What I'm Currently Working On
 
 
 
