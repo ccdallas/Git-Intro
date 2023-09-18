@@ -7,7 +7,7 @@ a Cybersecurity Data Analyst, I am driven by my love for solving problems and my
 🔗 Links
 - (under🚧construction) https://chaundacdallas.com/ - Personal Blog
 - (under🚧construction) https://hacks.chaundacdallas.com/ - Anything hacking related, Hack The Box, Try Hack Me 
-- https://mycyberdictionary.com/ - Just like it sounds, I dumped my cyber brain out to the public
+- (under🚧construction) My Cyber Dictionary - Just like it sounds, my cyber notes dump 🗑️
 
 🧪 Projects
 Security Awareness Training Program Development for HeartLove Place
