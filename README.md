@@ -17,8 +17,6 @@
 - Penetration Testing and Ethical Hacking Project <br>
 
 <h2>🛠️ What I'm Currently Working On</h2>
-- Comptia Security+ (In progress) <br>
-- CompTIA PenTest+ (In progress) <br>
 - Graduate Health IT Certification (7/2021) <br>
 - Google Cybersecurity Professional Certificate (11/2023) <br>
 
